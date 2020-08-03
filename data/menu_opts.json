@@ -1,0 +1,25 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Inicio"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Operaciones"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Pagos"
+        },
+        {
+            "ruta" : "animatedContainer",
+            "icon" : "donut_large",
+            "texto": "Usuario"
+        }
+    ]
+}
