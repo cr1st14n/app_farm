@@ -1,3 +1,4 @@
+import 'package:app_farm/src/pages/home.page.dart';
 import 'package:app_farm/src/pages/other_page.dart';
 import 'package:app_farm/src/pages/perfil_page.dart';
 import 'package:app_farm/src/pages/productos_page.dart';
@@ -17,7 +18,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
 
   final perfilPage _perfil = perfilPage();
   final productosPage _productos = productosPage();
-  final promocionesPage _promociones = promocionesPage();
+  final homePage _promociones = homePage();
   final OtherPage _otherPage = OtherPage();
 
   Widget _showPage = new promocionesPage();
